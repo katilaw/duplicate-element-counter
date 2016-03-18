@@ -1,0 +1,8 @@
+---
+title: "Duplicate Element Counter"
+type: "challenge"
+description: "Write a Ruby method to count the number of duplicates in an array."
+depends: "rock-paper-scissors"
+visibility: "assign"
+ignore:
+- "ruby-kata-duplicate-element-counter.md"
