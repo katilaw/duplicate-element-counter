@@ -2,7 +2,7 @@
 
 Licensing Information: READ LICENSE
 ---
-Project sources can download from https://github.com/katilaw/minimum-coins
+Project sources can download from https://github.com/katilaw/duplicate-element-counter
 ---
 
 Author & Contributor List
